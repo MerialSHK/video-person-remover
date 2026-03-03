@@ -1,0 +1,29 @@
+# Virtual Environment
+venv/
+
+# YOLO Models (downloaded automatically)
+*.pt
+
+# Video files (too large for git)
+*.mov
+*.mp4
+*.MP4
+*.avi
+*.mkv
+
+# Image artifacts / test outputs
+*.png
+
+# macOS
+.DS_Store
+
+# Claude Code
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Temp
+*.tmp

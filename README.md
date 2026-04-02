@@ -34,7 +34,7 @@ Optimized for **Apple Silicon (MPS)** but also works on CUDA and CPU.
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/video-person-remover.git
+git clone https://github.com/MerialSHK/video-person-remover.git
 cd video-person-remover
 
 # Create virtual environment
